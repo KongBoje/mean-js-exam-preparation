@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d338cdb7-7c09-4bc3-adb3-7f1f31acd64d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-2c.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3a.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3b.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3c.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MEAN.iws" />
@@ -24,20 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="period-1a.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/period-1a.md">
+      <file leaf-file-name="period-3a.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/period-3a.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.38116592">
-                <caret line="122" column="5" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
+              <first_editor vertical-scroll-proportion="0.27578476">
+                <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
                 <folding>
-                  <marker date="1464705727404" expanded="true" signature="1674:1740" placeholder="//..." />
-                  <marker date="1464705727404" expanded="true" signature="3112:3185" placeholder="//..." />
-                  <marker date="1464705727404" expanded="true" signature="4665:4715" placeholder="{...}" />
-                  <marker date="1464705727404" expanded="true" signature="4978:5006" placeholder="{...}" />
-                  <marker date="1464705727404" expanded="true" signature="5148:5184" placeholder="{...}" />
-                  <marker date="1464705727404" expanded="true" signature="5205:5270" placeholder="{...}" />
-                  <marker date="1464705727404" expanded="true" signature="5238:5264" placeholder="{...}" />
+                  <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
+                  <marker date="1464718886476" expanded="true" signature="2549:2644" placeholder="[...]" />
+                  <marker date="1464718886476" expanded="true" signature="2555:2596" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="2602:2642" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="2700:2713" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="2888:2899" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="3027:3040" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+                  <marker date="1464718886476" expanded="true" signature="3082:3095" placeholder="[...]" />
+                  <marker date="1464718886476" expanded="true" signature="3083:3094" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -45,87 +50,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="period-1b.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/period-1b.md">
+      <file leaf-file-name="period-3b.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/period-3b.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.4764574">
-                <caret line="118" column="29" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="29" />
-                <folding>
-                  <marker date="1464707245177" expanded="true" signature="1213:1283" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="1546:1689" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="1589:1683" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="1621:1673" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="2016:2095" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="2955:3005" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="3268:3296" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="3438:3474" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="3495:3560" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="3528:3554" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5494:5896" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5560:5644" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5560:5889" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5599:5644" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5682:5726" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5760:5879" placeholder="{...}" />
-                  <marker date="1464707245177" expanded="true" signature="5785:5865" placeholder="{...}" />
-                </folding>
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="period-2a.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/period-2a.md">
+      <file leaf-file-name="period-3c.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/period-3c.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.84753364">
-                <caret line="109" column="98" selection-start-line="65" selection-start-column="0" selection-end-line="109" selection-end-column="98" />
-                <folding>
-                  <marker date="1464710685237" expanded="true" signature="1790:1900" placeholder="{...}" />
-                  <marker date="1464710685237" expanded="true" signature="1790:1904" placeholder="{...}" />
-                  <marker date="1464710685237" expanded="true" signature="1820:1848" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
-                  <marker date="1464710685237" expanded="true" signature="1820:1900" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="period-2b.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/period-2b.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.42825112">
-                <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-                <folding>
-                  <marker date="1464712388558" expanded="true" signature="1079:1294" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1118:1290" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1189:1284" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1365:1677" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1388:1436" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1459:1506" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1534:1582" placeholder="{...}" />
-                  <marker date="1464712388558" expanded="true" signature="1609:1656" placeholder="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="period-2c.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/period-2c.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="-0.010089686">
-                <caret line="26" column="225" selection-start-line="26" selection-start-column="225" selection-end-line="26" selection-end-column="225" />
-                <folding>
-                  <marker date="1464712823486" expanded="true" signature="2999:3026" placeholder="{...}" />
-                  <marker date="1464712823486" expanded="true" signature="3473:3559" placeholder="{&quot;secret&quot;: '50ac41d0f8eff9365213'...}" />
-                </folding>
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -165,6 +109,7 @@
         <option value="$PROJECT_DIR$/period-2a.md" />
         <option value="$PROJECT_DIR$/period-2b.md" />
         <option value="$PROJECT_DIR$/period-2c.md" />
+        <option value="$PROJECT_DIR$/period-3a.md" />
       </list>
     </option>
   </component>
@@ -452,7 +397,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464712398203</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated">
+      <created>1464712826825</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1464712826825</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,14 +681,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/687474703a2f2f64617461636f6e6f6d792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30372f53514c2d76732e2d4e6f53514c2e706e67.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/period-3c.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/period-3b.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/period-2c.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="-0.010089686">
+          <first_editor vertical-scroll-proportion="0.019058296">
             <caret line="26" column="225" selection-start-line="26" selection-start-column="225" selection-end-line="26" selection-end-column="225" />
             <folding>
               <marker date="1464712823486" expanded="true" signature="2999:3026" placeholder="{...}" />
               <marker date="1464712823486" expanded="true" signature="3473:3559" placeholder="{&quot;secret&quot;: '50ac41d0f8eff9365213'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/period-3a.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.27578476">
+            <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <folding>
+              <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
+              <marker date="1464718886476" expanded="true" signature="2549:2644" placeholder="[...]" />
+              <marker date="1464718886476" expanded="true" signature="2555:2596" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="2602:2642" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="2700:2713" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="2888:2899" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="3027:3040" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
+              <marker date="1464718886476" expanded="true" signature="3082:3095" placeholder="[...]" />
+              <marker date="1464718886476" expanded="true" signature="3083:3094" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
             </folding>
           </first_editor>
           <second_editor />
