@@ -10,7 +10,35 @@
 - Java has an implicit this scope for non-static methods, and implicit class scope; JavaScript has implicit global scope.
 
 ## Function Closures and the JavaScript Module Pattern
-...
+When using function closures, the idea is often to make a function available inside a particular scope only.
+
+#### Example (Closure):
+Here we assign the value of `scope` to `"I am global"` in the global scope, and `"I am just a local"` in the scope of `getScope()`
+```javascript
+    var scope = "I am global";
+    function getScope() {
+        var scope = "I am just a local";
+        return scope;
+    }
+    console.log(getScope());
+    console.log(scope);
+```
+
+#### Example (JavaScript Module Pattern):
+Here we create a module that can return a greet to a certain person with the `greet()` function, by passing in the name:
+```javascript
+    function greeter(name) {
+        var name = name;
+    
+        return {
+            greet: function() {
+                return "Hi " + name;
+            }
+        }
+    }
+
+    console.log(greeter("Emil").greet());
+```
 
 ## JavaScript Prototyping
 Every JavaScript object has a prototype. The prototype is also an object. All JavaScript objects inherit their properties and methods from their prototype.
