@@ -4,6 +4,7 @@
     <list default="true" id="d338cdb7-7c09-4bc3-adb3-7f1f31acd64d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/period-3b.md" afterPath="$PROJECT_DIR$/period-3b.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/period-3c.md" afterPath="$PROJECT_DIR$/period-3c.md" />
     </list>
     <ignored path="MEAN.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/period-3a.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.26681614">
-                <caret line="14" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="69" />
+              <first_editor vertical-scroll-proportion="0.4764574">
+                <caret line="25" column="87" selection-start-line="16" selection-start-column="0" selection-end-line="25" selection-end-column="87" />
                 <folding>
                   <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
                   <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
@@ -48,41 +49,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="period-3b.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/period-3b.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.5336323">
-                <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="period-2c.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/period-2c.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.4955157">
-                <caret line="26" column="225" selection-start-line="26" selection-start-column="225" selection-end-line="26" selection-end-column="225" />
-                <folding>
-                  <marker date="1464712823486" expanded="true" signature="2999:3026" placeholder="{...}" />
-                  <marker date="1464712823486" expanded="true" signature="3473:3559" placeholder="{&quot;secret&quot;: '50ac41d0f8eff9365213'...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="period-3c.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="period-3c.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/period-3c.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.30493274">
+                <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -125,6 +97,7 @@
         <option value="$PROJECT_DIR$/period-2c.md" />
         <option value="$PROJECT_DIR$/period-3a.md" />
         <option value="$PROJECT_DIR$/period-3b.md" />
+        <option value="$PROJECT_DIR$/period-3c.md" />
       </list>
     </option>
   </component>
@@ -436,7 +409,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464718914232</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated">
+      <created>1464719379006</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1464719379006</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -699,31 +678,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/period-3c.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/period-2c.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.4955157">
-            <caret line="26" column="225" selection-start-line="26" selection-start-column="225" selection-end-line="26" selection-end-column="225" />
-            <folding>
-              <marker date="1464712823486" expanded="true" signature="2999:3026" placeholder="{...}" />
-              <marker date="1464712823486" expanded="true" signature="3473:3559" placeholder="{&quot;secret&quot;: '50ac41d0f8eff9365213'...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/period-2b.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -744,11 +698,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/period-3b.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.5336323">
+            <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/period-2c.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.4955157">
+            <caret line="26" column="225" selection-start-line="26" selection-start-column="225" selection-end-line="26" selection-end-column="225" />
+            <folding>
+              <marker date="1464712823486" expanded="true" signature="2999:3026" placeholder="{...}" />
+              <marker date="1464712823486" expanded="true" signature="3473:3559" placeholder="{&quot;secret&quot;: '50ac41d0f8eff9365213'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/period-3a.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.26681614">
-            <caret line="14" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="69" />
+          <first_editor vertical-scroll-proportion="0.4764574">
+            <caret line="25" column="87" selection-start-line="16" selection-start-column="0" selection-end-line="25" selection-end-column="87" />
             <folding>
               <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
               <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
@@ -766,11 +745,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/period-3b.md">
+    <entry file="file://$PROJECT_DIR$/period-3c.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.5336323">
-            <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.30493274">
+            <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
             <folding />
           </first_editor>
           <second_editor />
