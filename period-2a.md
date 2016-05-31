@@ -40,7 +40,7 @@ Creates a new array including elements where the callback function returns a num
   var filtered = numbers.filter(function (number) {
       if (number > 4)
         return number;
-  }
+  });
 ```
 
 #### Example 2 (Map):
@@ -51,7 +51,7 @@ Creates a new array with the values modified by the callback function
   // This will produce an array with [1,2,3,4,5,6,7,8,9,10]
   var filtered = numbers.map(function (number) {
       return number++;
-  }
+  });
 ```
 
 #### Example 3 (Custom function):
@@ -101,4 +101,33 @@ Node.js is an event based, asynchronous I/O server side platform that runs on Go
 NPM is a package manager for Node.js with hundreds of thousands of packages, which you can include in your Node.js based projects. Using NPM can really speed up the process when building applications in Node.js. NPM allows Node.js to be lightweight, because you only include the features that you need, thus avoiding a bloated server side platform.
 
 ## Provide examples of user defined reusable modules implemented in Node.js
-...
+person.js
+```javascript
+    function Person(name, age) {
+        var name = name;
+        var age = age;
+
+        return {
+            setName: function(value) {
+                name = value;
+            },
+            setAge: function(value) {
+                age = value;
+            },
+            getInfo: function() {
+                return {
+                    name: name,
+                    age: age
+                }
+            }
+        };
+    }
+
+    module.exports = Person;
+```
+main.js
+```javascript
+    var Person = require('person.js');
+    var person1 = Person("Luke Skywalker", 26);
+    console.log(person1.getInfo);
+```

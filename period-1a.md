@@ -90,7 +90,7 @@ WordPress disables the use of `$` for sequrity reasons when working with jQuery.
 ```javascript
 (function($) {
 
-  $(document).ready() { // code... };
+  $(document).ready(function() { });
   
 })(jQuery);
 ```
@@ -120,7 +120,7 @@ Creates a new array including elements where the callback function returns a num
   var filtered = numbers.filter(function (number) {
       if (number > 4)
         return number;
-  }
+  });
 ```
 
 #### Example 2 (Map):
@@ -131,7 +131,7 @@ Creates a new array with the values modified by the callback function
   // This will produce an array with [1,2,3,4,5,6,7,8,9,10]
   var filtered = numbers.map(function (number) {
       return number++;
-  }
+  });
 ```
 
 #### Example 3 (Custom function):
