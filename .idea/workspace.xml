@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d338cdb7-7c09-4bc3-adb3-7f1f31acd64d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-2a.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-2b.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/period-1b.md" afterPath="$PROJECT_DIR$/period-1b.md" />
     </list>
     <ignored path="MEAN.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,17 +76,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="period-2a.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="period-2a.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/period-2a.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="1.9910314">
-                <caret line="109" column="98" selection-start-line="109" selection-start-column="98" selection-end-line="109" selection-end-column="98" />
+              <first_editor vertical-scroll-proportion="0.038116593">
+                <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="62" />
                 <folding>
                   <marker date="1464710685237" expanded="true" signature="1790:1900" placeholder="{...}" />
                   <marker date="1464710685237" expanded="true" signature="1790:1904" placeholder="{...}" />
                   <marker date="1464710685237" expanded="true" signature="1820:1848" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
                   <marker date="1464710685237" expanded="true" signature="1820:1900" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="period-2b.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/period-2b.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor vertical-scroll-proportion="0.4764574">
+                <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                <folding>
+                  <marker date="1464712388558" expanded="true" signature="1079:1294" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1118:1290" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1189:1284" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1365:1677" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1388:1436" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1459:1506" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1534:1582" placeholder="{...}" />
+                  <marker date="1464712388558" expanded="true" signature="1609:1656" placeholder="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -126,6 +147,7 @@
         <option value="$PROJECT_DIR$/period-1b.md" />
         <option value="$PROJECT_DIR$/asd.java" />
         <option value="$PROJECT_DIR$/period-2a.md" />
+        <option value="$PROJECT_DIR$/period-2b.md" />
       </list>
     </option>
   </component>
@@ -401,7 +423,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464706762530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated">
+      <created>1464710690023</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464710690023</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -643,24 +671,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/period-2a.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="1.9910314">
-            <caret line="109" column="98" selection-start-line="109" selection-start-column="98" selection-end-line="109" selection-end-column="98" />
+          <first_editor vertical-scroll-proportion="0.038116593">
+            <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="62" />
             <folding>
               <marker date="1464710685237" expanded="true" signature="1790:1900" placeholder="{...}" />
               <marker date="1464710685237" expanded="true" signature="1790:1904" placeholder="{...}" />
               <marker date="1464710685237" expanded="true" signature="1820:1848" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
               <marker date="1464710685237" expanded="true" signature="1820:1900" placeholder="{&quot;title&quot;: 'Dashboard'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/period-2b.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.4764574">
+            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding>
+              <marker date="1464712388558" expanded="true" signature="1079:1294" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1118:1290" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1189:1284" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1365:1677" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1388:1436" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1459:1506" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1534:1582" placeholder="{...}" />
+              <marker date="1464712388558" expanded="true" signature="1609:1656" placeholder="{...}" />
             </folding>
           </first_editor>
           <second_editor />
