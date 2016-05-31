@@ -13,7 +13,20 @@
 ...
 
 ## JavaScript Prototyping
-...
+Every JavaScript object has a prototype. The prototype is also an object. All JavaScript objects inherit their properties and methods from their prototype.
+
+#### Example (Creating a prototype):
+```javascript
+  function Person(firstName, lastName, age) {
+    this.firstName = first;
+    this.lastName = last;
+    this.age = age;
+  }
+  
+  var person1 = new Person("Luke", "Skywalker", 26);
+  var person2 = new Person("Darth", "Vader", 48);
+  var person3 = new Person("Master", "Yoda", 900);
+```
 
 ## User defined callback functions
 In JavaScript, functions are first-class objects; that is, functions are of the type Object and they can be used in a first-class manner like any other object (String, Array, Number, etc.) since they are in fact objects themselves. They can be stored in variables, passed as arguments to functions, created within functions, and returned from functions.
