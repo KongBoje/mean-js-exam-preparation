@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d338cdb7-7c09-4bc3-adb3-7f1f31acd64d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3a.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3b.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/period-3c.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MEAN.iws" />
@@ -30,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/period-3a.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.27578476">
-                <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+              <first_editor vertical-scroll-proportion="0.73318386">
+                <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
                 <folding>
                   <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
                   <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
@@ -403,7 +400,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464712826825</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated">
+      <created>1464718906568</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1464718906568</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -725,8 +728,8 @@
     <entry file="file://$PROJECT_DIR$/period-3a.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.27578476">
-            <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <first_editor vertical-scroll-proportion="0.73318386">
+            <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
             <folding>
               <marker date="1464718886476" expanded="true" signature="2466:2507" placeholder="{&quot;name&quot;: &quot;Emil&quot;...}" />
               <marker date="1464718886476" expanded="true" signature="2549:2551" placeholder="[...]" />
