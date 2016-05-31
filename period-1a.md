@@ -1,4 +1,15 @@
-## Explain the use of: "use strict"
+## Java vs JavaScript
+#### Key differences
+- Java is an OOP programming language while Java Script is an OOP scripting language.
+- Java creates applications that run in a virtual machine or browser while JavaScript code is run on a browser only.
+- Java is a statically typed language; JavaScript is dynamic.
+- Java is class-based; JavaScript is prototype-based.
+- Java constructors are special functions that can only be called at object creation; JavaScript "constructors" are just standard functions
+- Java requires all non-block statements to end with a semicolon; JavaScript inserts semicolons at the ends of certain lines.
+- Java uses block-based scoping; JavaScript uses function-based scoping.
+- Java has an implicit this scope for non-static methods, and implicit class scope; JavaScript has implicit global scope.
+
+## Explain the use of: "use strict":
 Strict Mode is a new feature in ECMAScript 5 that allows you to place a program, or a function, in a "strict" operating context. This strict context prevents certain actions from being taken and throws more exceptions.
 Strict mode helps out in a couple ways:
 
