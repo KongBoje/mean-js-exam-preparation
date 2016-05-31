@@ -77,3 +77,5 @@ Run your server with `ionic serve`.
 
 When you access the ionic server at the path `http://localhost:8100/api`, it will proxy requests out to `http://cors.api.com/api` on your behalf.
 
+## Explain using an example the "fundamentals" of an ionic application.
+- [Ionic App](https://github.com/ERPedersen/ionic-app)
