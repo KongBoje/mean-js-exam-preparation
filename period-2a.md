@@ -65,13 +65,12 @@ Node.js is an event based, asynchronous I/O server side platform that runs on Go
 - Node.js' V8 wrappers are not made in JavaScript but C.
 - Node.js is not multi-threaded. It runs in a single thread with callback concept.
 
-##### What it IS:
+#### What it IS:
 - Node.js is a server side platform which can execute JavaScript.
 - Node.js is an open source platform to make real time network applications
 - Node.js provides asynchronous, event driven I/O APIs.
 - Node.js runs a single threaded event based loop, so all executions become non-blocking.
 
----
 ### Pros & Cons
 #### Pros:
 - Asynchronous event driven IO helps concurrent request handling.
@@ -84,6 +83,9 @@ Node.js is an event based, asynchronous I/O server side platform that runs on Go
 - Nested callbacks can create confusion.
 - Requires understanding of somewhat advanced JavaScript.
 - Not suited for CPU-intensive tasks.
+
+### NPM
+NPM is a package manager for Node.js with hundreds of thousands of packages, which you can include in your Node.js based projects. Using NPM can really speed up the process when building applications in Node.js. NPM allows Node.js to be lightweight, because you only include the features that you need, thus avoiding a bloated server side platform.
 
 ## Provide examples of user defined reusable modules implemented in Node.js
 ...
