@@ -57,7 +57,33 @@ Creates a new array with the values modified by the callback function
 ```
 
 ## Explain generally about node.js and NPM.
-...
+### Node.js:
+Node.js is an event based, asynchronous I/O server side platform that runs on Google's V8 JavaScript Engine for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+#### What it's NOT
+- Node.js is not a JavaScript framework.
+- Node.js' V8 wrappers are not made in JavaScript but C.
+- Node.js is not multi-threaded. It runs in a single thread with callback concept.
+
+##### What it IS:
+- Node.js is a server side platform which can execute JavaScript.
+- Node.js is an open source platform to make real time network applications
+- Node.js provides asynchronous, event driven I/O APIs.
+- Node.js runs a single threaded event based loop, so all executions become non-blocking.
+
+---
+### Pros & Cons
+#### Pros:
+- Asynchronous event driven IO helps concurrent request handling.
+- Provides the possibility to use the same language on both the server and client side.
+- Allows you to use NPM - the Node Package Manager.
+- Has an activate and vibrant community, with lots of free-to-use open source modules.
+
+#### Cons:
+- Dealing with relational databases are a pain.
+- Nested callbacks can create confusion.
+- Requires understanding of somewhat advanced JavaScript.
+- Not suited for CPU-intensive tasks.
 
 ## Provide examples of user defined reusable modules implemented in Node.js
 ...
