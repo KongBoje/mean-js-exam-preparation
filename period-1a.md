@@ -1,4 +1,4 @@
-### Explain the use of: "use strict"
+## Explain the use of: "use strict"
 Strict Mode is a new feature in ECMAScript 5 that allows you to place a program, or a function, in a "strict" operating context. This strict context prevents certain actions from being taken and throws more exceptions.
 Strict mode helps out in a couple ways:
 
@@ -27,7 +27,7 @@ You can use it in a specific function scope:
 // Non-strict code... 
 ```
 
-### Variable/function-Hoisting
+## Variable/function-Hoisting
 At runtime the compiler will move variable declarations and function declarations to the top of the document.
 
 #### Example 1:
@@ -55,11 +55,11 @@ foo();  // TypeError: undefined is not a function
 foo = function () {};
 ```
 
-### `this` in JavaScript and how it differs from what we know from Java/.net.
+## `this` in JavaScript and how it differs from what we know from Java/.net.
 A function's `this` keyword behaves a little differently in JavaScript compared to other languages.
 In most cases, the value of this is determined by how a function is called. It can't be set by assignment during execution, and it may be different each time the function is called.
 
-## Example 1 (Global Context):
+#### Example 1 (Global Context):
 In the global execution context (outside of any function), this refers to the global object, whether in strict mode or not.
 ```javascript
 console.log(this.document === document); // true
@@ -71,7 +71,7 @@ this.a = 37;
 console.log(window.a); // 37
 ```
 
-### Immediately-Invoked Function Expressions (IIFE)
+## Immediately-Invoked Function Expressions (IIFE)
 An immediately invoked function is a function that is called immediately after it is declared.
 
 #### Example 1:
@@ -85,7 +85,7 @@ WordPress disables the use of `$` for sequrity reasons when working with jQuery.
 ```
 You can also use it as a shorter way of writing consolidated code, and immediately executing it.
 
-### Use the Debugger to explain about the basic "things" all objects inherits from object
+## Use the Debugger to explain about the basic "things" all objects inherits from object
 Do a live example of this:
 ```javascript
 var a = {};
@@ -97,7 +97,7 @@ var f = new Date();
 console.log("Add a breakpoint on me")
 ```
 
-### User defined callback functions
+## User defined callback functions
 In JavaScript, functions are first-class objects; that is, functions are of the type Object and they can be used in a first-class manner like any other object (String, Array, Number, etc.) since they are in fact objects themselves. They can be stored in variables, passed as arguments to functions, created within functions, and returned from functions.
 
 #### Example 1 (Filter):
@@ -123,7 +123,7 @@ Creates a new array with the values modified by the callback function
   }
 ```
 
-#### Example 3 (Custom function)
+#### Example 3 (Custom function):
 ```javascript
   var names = ["Luke Skywalker", "Darth Vader", "Obi-Wan"];
   
@@ -137,19 +137,3 @@ Creates a new array with the values modified by the callback function
     });
   })(names);
 ```
-
-
-
-
-
-
-
-
-
-
-
-```javascript
-
-```
-
-
