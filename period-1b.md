@@ -114,7 +114,7 @@ Node.js is an event based, asynchronous I/O server side platform that runs on Go
 
 ### Pros & Cons
 #### Pros:
-- Asynchronous event driven IO helps concurrent request handling.
+- Asynchronous event driven I/O helps concurrent request handling.
 - Provides the possibility to use the same language on both the server and client side.
 - Allows you to use NPM - the Node Package Manager.
 - Has an activate and vibrant community, with lots of free-to-use open source modules.
